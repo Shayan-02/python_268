@@ -1,0 +1,5 @@
+a = input("first name: ")
+b = input("last name: ")
+print("your full name is", a, b)
+print(f"your full name is {a} {b}")
+print("your full name is {} {}".format(a, b))
