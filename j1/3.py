@@ -1,7 +1,6 @@
-a = float(input("first number: "))
-b = float(input("second number: "))
-c = a + b
-print(c)
-
-x = True
-y = int(x)
+a = int(input("first number: "))
+b = int(input("second number: "))
+print(f"result of {a} + {b} is {a + b}")
+print(f"result of {a} - {b} is {a - b}")
+print(f"result of {a} * {b} is {a * b}")
+print(f"result of {a} / {b} is {a / b}")

@@ -1,3 +1,6 @@
 a = input("first name: ")
 b = input("last name: ")
 print("first name + last name: ", a + " "+ b)
+print(a+b)
+print(a,b, sep="    ",end="\n\n")
+print("hi")
