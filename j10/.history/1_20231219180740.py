@@ -1,2 +1,0 @@
-a = input("enter: ")
-eval()
